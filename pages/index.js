@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Домашние задание</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon-removebg-preview.png" />
       </Head>
 
       <main>
