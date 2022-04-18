@@ -31,7 +31,8 @@ export default function Home() {
 
 
 class App extends React.Component {
-  constructor(props) {
+  constructor(props) }
+  {
     super(props);
     this.state = { value: "coconut" };
 
