@@ -123,11 +123,12 @@ export default function Home() {
 	</form>
 <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
 
-
+<script>
 function f1(){
 var a=document.getElementById('sa1').value;
 alert(a);
 }
+	</script>
 
 <style>
 .alert {
