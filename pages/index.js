@@ -33,7 +33,7 @@ export default function Home() {
 class App extends React.Component {
   constructor(props) }
   {
-    super(props);
+    super(props) }
     this.state = { value: "coconut" };
 
     // this.handleChange = this.handleChange.bind(this);
