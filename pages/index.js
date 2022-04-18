@@ -125,7 +125,7 @@ export default function Home() {
 
 <script>
 function f1(){
-var a=document.getElementById('sa1').value;
+document.getElementById('sa1').value;
 alert(a);
 }
 	</script>
