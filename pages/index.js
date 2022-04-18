@@ -19,7 +19,7 @@ export default function Home() {
 <div class="Homework">
 <h1><center>Домашние задание</center></h1>
 <h2>!Внимание!Домашние задание только для 8б Столинской государственной гимназии</h2>
-<br><p><big>Чтобы узнать домашние задание:<big></p>
+<p>Чтобы узнать домашние задание:</p>
 <p>1.Выберите неделю(текущую или следующую)</p>
 <p>2.Выберите день недели(понедельник-пятница)</p>
 <p>3.Нажмите кнопку "Посмотреть" </p>
@@ -124,13 +124,11 @@ export default function Home() {
 	</form>
 <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
 
-  <br>
-<script>
+
 function f1(){
 var a=document.getElementById('sa1').value;
 alert(a);
 }
-</script></br>
 
 <style>
 .alert {
