@@ -4,13 +4,7 @@ import Footer from '@components/Footer'
 import React from "react";
 import ReactDOM from "react-dom";
 
-export default function Home() {
-  return (
-    <div className="container">
-      <Head>
-        <title>Домашние задание</title>
-        <link rel="icon" href="/icon-removebg-preview.png" />
-      </Head>
+
 
 
 class App extends React.Component {
